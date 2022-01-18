@@ -112,7 +112,7 @@ a {
 }
 /* START HEADER */
 .dots {
-  background-image: url(/imgs/dots.png);
+  background-image: url(./imgs/dots.png);
   width: 186px;
   height: 204px;
   position: absolute;
@@ -1283,7 +1283,7 @@ a {
 
 .stats {
   padding: var(--section-padding) 0;
-  background: url(/imgs/stats.jpg);
+  background: url(./imgs/stats.jpg);
   background-size: cover;
   min-height: 300px;
   position: relative;
@@ -1651,10 +1651,10 @@ a {
 @keyframes change-bg {
   0%,
   100% {
-    background-image: url(/imgs/discount-background1.jpg);
+    background-image: url(./imgs/discount-background1.jpg);
   }
   50% {
-    background-image: url(/imgs/discount-background2.jpg);
+    background-image: url(./imgs/discount-background2.jpg);
   }
 }
 /* End Animations  */
